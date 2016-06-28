@@ -1,6 +1,6 @@
 <?php
 
-class m160628_124404_lessons extends CDbMigration
+class m160628_154404_lessons extends CDbMigration
 {
     public function safeUp()
     {
